@@ -1,4 +1,4 @@
-Hi, I'm Jefferson Boateng 
+# Hi, I'm Jefferson Boateng 
 
 3rd year Computer Engineering student at KNUST, Ghana.
 
