@@ -2,7 +2,7 @@
 
 3rd year Computer Engineering student at KNUST, Ghana.
 
-Currently learning African NLP — focused on low-resource Ghanaian 
+Currently learning African NLP with focus on low-resource Ghanaian 
 languages (Twi, Ga, Ewe) and contributing to the Ghana NLP community.
 
 # What I'm working on
